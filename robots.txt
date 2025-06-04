@@ -28,4 +28,4 @@ Disallow: /tw/*/
 Allow: /en/$
 Allow: /tw/$
 
-Sitemap: https://miri-robot.github.io/sitemap.xml
+Sitemap: https://minayu.site/miri/app/sitemap.xml
